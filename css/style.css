@@ -215,7 +215,7 @@ body {
 	padding: 95px 0px 0px 0px;
 }
 
-/* --------------TIME-TOGEHTER---------------------------------- */
+/* --------------TIME-TOGEHTER-------YOUR-PARTNER--------------------------- */
 .time-together__main {
 	display: flex;
 	margin: 261px 0px 0px 0px;
@@ -268,7 +268,7 @@ body {
 	padding: 120px 0px 0px 120px;
 }
 
-/* ----------------HEALTHY-HABITS------------------------------------ */
+/* ----------------HEALTHY-HABITS----------ME-TIME-------------------------- */
 .healthy-habits__main {
 	display:flex;
 	margin: 157px 0px 0px 0px;
@@ -352,6 +352,130 @@ body {
 	align-items: center;
 	padding: 32px 0px 0px 0px;
 }
+
+/* ------------------SEE-ARO-------------------------------- */
+.see-aro {
+	position: relative;
+	margin: 180px 0px 0px 0px;
+}
+
+
+.see-aro__content {
+	position: relative;
+	z-index: 2;
+}
+
+.see-aro__title {
+	padding: 231px 0px 0px 0px;
+	font-weight: 400;
+	font-size: 58px;
+	line-height: 1.2;
+	color: #FFFFFF;
+}
+
+.see-aro__subtitle {
+	padding: 35px 0px 424px 0px;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 2.3;
+	color: #FFFFFF;
+}
+
+.see-aro__image {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+/* --------------ARO-EXPERIENCE---------ARO-HOME--------------------------- */
+.aro-experience__inner {
+	display: flex;
+	margin: 220px 0px 0px 0px;
+}
+
+.aro-experience__content {
+	padding: 13px 0px 0px 0px;
+	font-weight: 400;
+	color: #24160B;
+}
+
+.aro-experience__title {
+	font-size: 43px;
+	line-height: 1.3;
+}
+
+.aro-experience__text {
+	padding: 28px 0px 0px 0px;
+	font-size: 18px;
+	line-height: 1.7;
+}
+
+.aro-experience__link {
+	padding: 47px 0px 0px 0px;
+}
+
+.aro-experience__button {
+	font-size: 17px;
+	line-height: 1.5;
+	color: #24160B;
+}
+
+.aro-experience__line {
+	border: 2px solid #24160B1F;
+	width: 136px;
+}
+
+.aro-experience__image {
+	padding: 0px 0px 0px 114px;
+	border-radius: 16px;
+}
+
+/* --------------ARO-APP----------------------------------- */
+.aro-app__inner {
+	display: flex;
+	margin: 100px 0px 0px 0px;
+}
+
+.aro-app__content {
+	padding: 0px 0px 0px 104px;
+	font-weight: 400;
+	color: #24160B;
+}
+
+.aro-app__title {
+	font-size: 43px;
+	line-height: 1.3;
+}
+
+.aro-app__text {
+	padding: 28px 0px 0px 0px;
+	font-size: 18px;
+	line-height: 1.7;
+}
+
+.aro-app__link {
+	padding: 47px 0px 0px 0px;
+}
+
+.aro-app__button {
+	font-size: 17px;
+	line-height: 1.5;
+	color: #24160B;
+}
+
+.aro-app__line {
+	border: 2px solid #24160B1F;
+	width: 136px;
+}
+
+.aro-app__image {
+	padding: 50px 0px 0px 0px;
+	border-radius: 16px;
+}
+
+/* ---------------GET-STARTED------------------------------------ */
 
 
 /* ------------FOOTER------------------------------------ */
